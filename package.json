@@ -1,0 +1,15 @@
+{
+  "name": "braingames-slack",
+  "version": "0.0.0",
+  "description": "Push puzzles.",
+  "main": "server.js",
+  "repository": "",
+  "author": "Perfilyev Igor <perfilyevhead@gmail.com>",
+  "dependencies": {
+    "dateformat": "^1.0.12",
+    "html-entities": "^1.2.0",
+    "iconv-lite": "^0.4.13",
+    "node-schedule": "^1.1.0",
+    "slack-node": "^0.2.0"
+  }
+}
